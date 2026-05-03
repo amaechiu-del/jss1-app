@@ -1,0 +1,157 @@
+{
+  "jss1": {
+    "nerdc": {
+      "name": "NERDC Basic Education (JSS1)",
+      "subjects": {
+        "Mathematics": ["Number Bases (Base 2, 10)", "Fractions and Decimals", "Percentages", "Prime Factors, L.C.M and H.C.F", "Integers (Positive and Negative Numbers)", "Algebraic Processes (Introduction to Variables)", "Simple Linear Equations", "Plane Shapes (Triangles, Rectangles, Circles)", "Perimeter and Area of Plane Shapes", "Solid Shapes (Cubes, Cuboids, Cylinders)", "Volume of Solid Shapes", "Ratio and Proportion"],
+        "English Studies": ["Parts of Speech (Nouns, Pronouns, Verbs)", "Types of Nouns and their Functions", "Types of Pronouns", "Verbs and Tenses (Present, Past)", "Adjectives and Adverbs", "Conjunctions and Prepositions", "Direct and Indirect Speech", "Reading Comprehension Strategies", "Letter Writing (Informal Letters)", "Essay Writing (Simple Narrative)", "Oral English (Vowel and Consonant Sounds)"],
+        "Basic Science": ["Living and Non-Living Things", "Characteristics of Living Things", "Classification of Living Things (Plants and Animals)", "Human Development (Growth Stages)", "Matter (States of Matter)", "Energy (Forms and Sources)", "The Human Body (Digestive System, Respiratory System)", "Earth and Space Science (Solar System, Seasons)", "Simple Machines", "Pollution and its Effects"],
+        "Social Studies": ["Meaning and Scope of Social Studies", "The Physical Environment (Landforms, Climate)", "The Family (Types and Functions)", "Socialization (Agents of Socialization)", "Culture and Identity (Nigerian Cultures)", "Social Issues and Problems (Drug Abuse, Cultism)", "Community Living", "Inter-group Relations"],
+        "Civic Education": ["Meaning of Values", "National Symbols (Flag, Anthem, Coat of Arms)", "National Identity", "Human Rights (Children's Rights)", "The Rule of Law", "Citizen Rights and Duties", "Electoral Process (Introduction)", "Discipline and Obedience"],
+        "Basic Technology": ["Introduction to Technology", "Workshop Safety Rules", "Properties of Materials (Wood, Metal, Plastics, Ceramics)", "Measuring Instruments", "Drawing Instruments and their Uses", "Freehand Sketching", "Woodwork Tools", "Metalwork Tools"],
+        "Computer Studies": ["Evolution of Computers", "Classification of Computers", "Computer Hardware (Input, Output, Storage Devices)", "Computer Software (System and Application)", "Data and Information", "Introduction to Microsoft Word (Basic Features)", "Computer Ethics", "Internet Basics"],
+        "Agricultural Science": ["Meaning and Importance of Agriculture", "Forms of Agriculture", "Parts of a Flowering Plant and their Functions", "Classification of Crops", "Farm Tools and Equipment (Hand Tools)", "Soil Types and their Properties", "Crop Pests and Diseases (Introduction)", "Animal Husbandry (Types of Farm Animals)"],
+        "Business Studies": ["Introduction to Business Studies", "The Office (Types and Functions)", "Personal Qualities of an Office Worker", "Trade (Local and International)", "Book-keeping (Introduction to Accounts)", "The Typewriter (Parts and Functions)", "Business Documents (Invoice, Receipt)", "Communication in Business"],
+        "Home Economics": ["Introduction to Home Economics", "The Human Body (Skin and Hair Care)", "Good Grooming and Personal Hygiene", "Food and Nutrition (Food Groups)", "Basic Sewing Tools and their Uses", "Simple Stitching", "Meal Planning", "Home Safety"]
+      }
+    },
+    "waec": {
+      "name": "WAEC (Junior WAEC) Syllabus",
+      "subjects": {
+        "Mathematics": ["Types of Numbers (Natural, Whole, Integers)", "Factors, Multiples, LCM, HCF", "Fractions, Decimals, Percentages", "Introduction to Algebra (Variables, Expressions)", "Simple Equations", "Basic Geometry (Lines, Angles, Shapes)", "Data Representation (Bar Charts, Pictograms)"],
+        "English Language": ["Parts of Speech Review", "Sentence Construction", "Punctuation Marks", "Synonyms and Antonyms", "Simple Essay Writing", "Reading for Main Ideas", "Summarizing Passages"],
+        "Basic Science": ["Living and Non-Living Things", "Matter", "Energy", "The Human Body", "Earth and Space", "Environment"],
+        "Social Studies": ["The Family", "Culture", "Citizenship", "Social Issues"]
+      }
+    },
+    "bece": {
+      "name": "BECE (Junior Secondary Certificate Exam)",
+      "subjects": {
+        "Mathematics": ["Numbers and Numeration", "Basic Operations", "Fractions, Decimals, Percentages", "Algebra", "Geometry", "Measurement", "Statistics and Probability"],
+        "English": ["Grammar", "Comprehension", "Composition", "Literature (Prose and Poetry)", "Spelling and Punctuation", "Oral English"],
+        "Basic Science": ["Matter", "Living Things", "Human Health", "Earth and Space", "Energy", "Environment"],
+        "Social Studies": ["Socialization", "Family and Marriage", "Culture", "Citizenship and Nationalism", "Law and Order"]
+      }
+    }
+  },
+  "jss2": {
+    "nerdc": {
+      "name": "NERDC Basic Education (JSS2)",
+      "subjects": {
+        "Mathematics": ["Rational Numbers", "Ratio and Proportion", "Simple Interest", "Algebraic Fractions", "Linear Inequalities", "Polygons", "Statistics: Mean, Median, Mode"],
+        "English": ["Tenses", "Active and Passive Voice", "Reported Speech", "Essay Types (Narrative, Descriptive, Argumentative)", "Reading for Main Ideas", "Poetry and Figures of Speech"],
+        "Basic Science": ["Sense Organs", "Reproduction in Plants and Animals", "Growth and Development", "Work, Energy, and Power", "Simple Machines", "Acids, Bases, and Salts", "Heat Transfer"],
+        "Social Studies": ["Social Issues: Poverty, Corruption", "National Unity and Integration", "Human Trafficking", "Environmental Hazards", "Labour and Trade Unions"]
+      }
+    },
+    "waec": {
+      "name": "WAEC (Junior WAEC) JSS2",
+      "subjects": {
+        "Mathematics": ["Indices and Logarithms", "Quadratic Equations", "Variation", "Statistics (Pie Charts, Bar Charts)", "Probability"],
+        "English": ["Clauses and Phrases", "Prefixes and Suffixes", "Summary Writing", "Register (Vocabulary)", "Formal and Informal Letters"],
+        "Basic Science": ["Reproductive Systems", "Digestive System", "Respiratory System", "Technology and Society", "Electric Circuits", "Magnetism"],
+        "Social Studies": ["Government and Politics", "Economic Activities in Nigeria", "Social Conflicts and Resolution", "Citizenship Education"]
+      }
+    }
+  },
+  "jss3": {
+    "nerdc": {
+      "name": "NERDC Basic Education (JSS3)",
+      "subjects": {
+        "Mathematics": ["Number Systems", "Algebraic Processes", "Geometry and Mensuration", "Trigonometric Ratios", "Statistics and Probability", "Bearing and Distances"],
+        "English": ["Oral English (Vowel and Consonant Sounds)", "Advanced Grammar (Conditionals, Modals)", "Composition (Creative Writing)", "Summary and Cloze Test", "Reading for Critical Evaluation"],
+        "Basic Science": ["Ecology and Ecosystems", "Heredity and Genetics", "Chemical Reactions", "Electricity and Magnetism", "Radioactivity", "Earth's Resources"],
+        "Social Studies": ["Global Issues: Climate Change", "International Organizations (UN, AU)", "Human Rights and Child Rights", "Career Guidance and Entrepreneurship"]
+      }
+    },
+    "waec": {
+      "name": "WAEC (Junior WAEC) JSS3",
+      "subjects": {
+        "Mathematics": ["Approximation and Estimation", "Locus", "Constructions", "Statistics (Frequency Tables)", "Probability (Simple Events)"],
+        "English": ["Phonetics", "Vocabulary Development", "Logos and Register", "Comprehension (Advanced)", "Summary Writing", "Letter Writing (Formal/Informal)"],
+        "Basic Science": ["Balance in Nature", "Energy and Society", "Space Exploration", "Environmental Pollution Control", "Science and Technology"],
+        "Social Studies": ["Democracy and Rule of Law", "National Security", "Economic Reforms in Nigeria", "Career Opportunities"]
+      }
+    }
+  },
+  "sss1": {
+    "nerdc": {
+      "name": "NERDC Senior Secondary (SS1)",
+      "subjects": {
+        "Mathematics": ["Sets and Venn Diagrams", "Indices and Surds", "Logarithms", "Quadratic Equations", "Coordinate Geometry", "Trigonometry", "Statistics (Grouped Data)"],
+        "English": ["Grammar (Concord, Sequence of Tenses)", "Lexis and Semantics", "Comprehension and Summary", "Essay Writing (Expository, Argumentative)", "Oral English (Consonant Clusters)"],
+        "Physics": ["Mechanics (Motion, Force, Gravity)", "Work, Energy, Power", "Properties of Matter", "Heat and Thermodynamics"],
+        "Chemistry": ["Introduction to Chemistry", "Atomic Structure", "Periodic Table", "Chemical Bonding", "States of Matter"],
+        "Biology": ["Cell Biology", "Tissues and Organs", "Plant and Animal Nutrition", "Transport Systems"],
+        "Economics": ["Basic Concepts (Scarcity, Choice)", "Factors of Production", "Economic Systems", "Demand and Supply"],
+        "Government": ["Definition and Scope", "Political Systems", "Constitutions", "Citizenship and Rights"],
+        "Literature in English": ["Prose (Types, Elements)", "Poetry (Forms, Devices)", "Drama (Elements)", "Reading of Prescribed Texts"]
+      }
+    },
+    "waec": {
+      "name": "WAEC SSCE (SS1)",
+      "subjects": {
+        "Mathematics": ["Number Theory", "Polynomials", "Coordinate Geometry", "Trigonometric Ratios", "Statistics and Probability"],
+        "English": ["Comprehension", "Summary", "Essay Writing", "Lexis and Structure", "Oral English"],
+        "Physics": ["Measurement and Units", "Kinematics", "Dynamics", "Gravitation", "Work, Energy, Power"],
+        "Chemistry": ["Atomic Structure", "Periodic Table", "Chemical Equations", "Stoichiometry", "Gas Laws"],
+        "Biology": ["Cell and Its Environment", "Heredity and Variation", "Evolution", "Ecology", "Reproduction"],
+        "Economics": ["Basic Economic Concepts", "Price Mechanism", "Market Structures", "National Income"],
+        "Government": ["Basic Concepts", "Forms of Government", "Nigerian Constitution", "Citizenship"],
+        "Literature": ["Genres of Literature", "Literary Appreciation", "Prescribed Texts"]
+      }
+    }
+  },
+  "sss2": {
+    "nerdc": {
+      "name": "NERDC Senior Secondary (SS2)",
+      "subjects": {
+        "Mathematics": ["Matrices and Determinants", "Complex Numbers", "Polynomials", "Differentiation", "Integration", "Probability"],
+        "English": ["Advanced Grammar (Clauses, Nominalization)", "Essay Writing (Report, Speech)", "Comprehension (Inferential)", "Oral English (Stress and Intonation)"],
+        "Physics": ["Waves and Optics", "Electricity and Magnetism", "Electronics", "Modern Physics (Photoelectric Effect)"],
+        "Chemistry": ["Acids, Bases, and Salts", "Chemical Kinetics", "Electrochemistry", "Organic Chemistry (Hydrocarbons)"],
+        "Biology": ["Growth and Development", "Coordination and Control", "Homeostasis", "Genetics and Variation", "Ecology and Population"],
+        "Economics": ["Money and Banking", "Public Finance", "International Trade", "Economic Development"],
+        "Government": ["Separation of Powers", "Federalism", "Political Parties", "Pressure Groups", "Public Administration"]
+      }
+    },
+    "waec": {
+      "name": "WAEC SSCE (SS2)",
+      "subjects": {
+        "Mathematics": ["Further Algebra", "Plane Geometry", "Mensuration", "Statistics", "Probability"],
+        "English": ["Cloze Test", "Register", "Reading for Implied Meaning", "Letter Writing (Business)", "Summary"],
+        "Physics": ["Optics", "Electromagnetic Waves", "Alternating Current", "Atomic Physics"],
+        "Chemistry": ["Chemical Equilibria", "Redox Reactions", "Organic Chemistry (Alkanes, Alkenes, Alkynes)", "Environmental Chemistry"],
+        "Biology": ["Evolution", "Reproductive Systems", "Excretory Systems", "Nervous System", "Ecosystems"],
+        "Economics": ["Economic Growth", "Inflation", "Unemployment", "Development Planning"],
+        "Government": ["Judiciary", "Local Government", "Constitutional Development in Nigeria", "Foreign Policy"]
+      }
+    }
+  },
+  "sss3": {
+    "nerdc": {
+      "name": "NERDC Senior Secondary (SS3)",
+      "subjects": {
+        "Mathematics": ["Calculus (Differentiation, Integration)", "Differential Equations", "Vectors and 3D Geometry", "Probability Distributions"],
+        "English": ["Revision and Exam Techniques", "Essay Writing (Creative)", "Comprehension and Summary", "Oral English"],
+        "Physics": ["Matter and Materials", "Electromagnetism", "Semiconductors", "Nuclear Physics"],
+        "Chemistry": ["Chemical Industry", "Qualitative Analysis", "Nuclear Chemistry", "Polymers and Plastics"],
+        "Biology": ["Genetics and Biotechnology", "Health and Disease", "Conservation of Natural Resources", "Sense Organs"],
+        "Economics": ["Economic Planning", "National Development", "International Economic Organizations", "Contemporary Economic Issues"],
+        "Government": ["International Organizations", "Diplomacy", "Nigerian Foreign Policy", "Issues in Governance"]
+      }
+    },
+    "waec": {
+      "name": "WAEC SSCE (SS3)",
+      "subjects": {
+        "Mathematics": ["Differential Calculus", "Integral Calculus", "Probability (Advanced)", "Statistics (Correlation and Regression)"],
+        "English": ["Summary Writing", "Comprehension", "Essay Writing (Discursive)", "Oral English", "Revision"],
+        "Physics": ["Electromagnetic Induction", "AC Circuits", "Quantum Physics", "Nuclear Reactions"],
+        "Chemistry": ["Carboxylic Acids", "Amines", "Polymers", "Environmental Pollution Control"],
+        "Biology": ["Biotechnology", "Human Nutrition", "Environmental Biology", "Reproductive Health"],
+        "Economics": ["Globalization", "Economic Reforms", "Foreign Direct Investment", "Sustainable Development"],
+        "Government": ["United Nations", "African Union", "ECOWAS", "Human Rights Organizations"]
+      }
+    }
+  }
+}
